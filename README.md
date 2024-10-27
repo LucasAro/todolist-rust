@@ -1,7 +1,3 @@
-Aqui está um modelo de README para seu projeto. Ele cobre desde a configuração no jsonbin.io até a modificação dos IDs e instruções para compilar e executar o projeto.
-
----
-
 # To-Do List em Rust
 
 Este projeto é uma aplicação de lista de tarefas criada em Rust. Ele permite que você crie, liste, marque como concluída e apague tarefas. As tarefas são armazenadas remotamente em [jsonbin.io](https://jsonbin.io/).
@@ -131,6 +127,3 @@ As funções `load_tasks` e `save_tasks` fazem requisições HTTP ao jsonbin.io 
 5. **Sair**
    - Escolha a opção "5" para encerrar o programa.
 
----
-
-Este README cobre todas as etapas para configurar, executar e modificar o projeto. Boa sorte com seu projeto de lista de tarefas em Rust!
