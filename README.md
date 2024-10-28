@@ -36,7 +36,7 @@ Este projeto é uma aplicação de lista de tarefas criada em Rust. Ele permite 
    Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/usuario/todolist.git
+   git clone https://github.com/LucasAro/todolist-rust.git
    cd todolist
    ```
 
